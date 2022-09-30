@@ -16,7 +16,7 @@ export default function Index() {
         />
         <h1>Bryan Granados</h1>
         <h2>
-          Blazing Fast Notion Blog with Next.js'{' '}
+          Full-stack Developer'{' '}
           <ExtLink
             href="https://github.com/vercel/next.js/issues/9524"
             className="dotted"
