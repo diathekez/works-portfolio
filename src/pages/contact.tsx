@@ -44,7 +44,7 @@ export default function Contact() {
         <h1 style={{ marginTop: 0 }}>Contact</h1>
 
         <div className={contactStyles.name}>
-          Bryan Granados - Software Developer @{' '}
+          Bryan Granados - Web Developer @{' '}
           <ExtLink href="https://www.minings.pe/">Mining Service Ingenieros, LLC.</ExtLink>
         </div>
 
